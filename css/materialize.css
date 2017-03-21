@@ -8181,3 +8181,24 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
     margin-bottom: 5em;
   }
 }
+
+  /* para 480px o menos */
+#modalDes {
+
+height: auto;
+}
+
+#text {
+
+font-size: 1.5em;
+}
+
+#sidebar {
+
+display: none;
+}
+#map{
+  width: auto;
+  height: auto;
+  float: none;
+}
